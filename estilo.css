@@ -10,14 +10,18 @@ body{
     background-position: center;
 }
 
+
+header>h1{
+    letter-spacing: 0.25rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    padding: 0;
+}
+
+
 main{
     margin: 2rem;
 }
-
-main>h1{
-    letter-spacing: 0.25rem;
-}
-
 
 .curriculo-container{
     margin-top: 1rem;
